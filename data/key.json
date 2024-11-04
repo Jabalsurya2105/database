@@ -38,5 +38,9 @@
   {
     "username": "nopal",
     "password": "nopal005"
+  },
+  {
+    "username": "Admin",
+    "password": "Admin1234"
   }
 ]

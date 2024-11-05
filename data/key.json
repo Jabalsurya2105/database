@@ -42,5 +42,9 @@
   {
     "username": "Admin",
     "password": "Admin1234"
+  },
+  {
+    "username": "Zidan",
+    "password": "Zidan098"
   }
 ]

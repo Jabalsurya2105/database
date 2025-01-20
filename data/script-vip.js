@@ -33,7 +33,7 @@
   {
     "code": "C.A",
     "meaning": "Create Akun"
-  },
+  }
   ],
   "result": [
     "Zidan ➠ 370k *(100 F.U + 270 A.F)*",

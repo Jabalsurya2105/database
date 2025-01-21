@@ -36,7 +36,7 @@
   }
   ],
   "result": [
-    "Zidan ➠ 370k *(100 F.U + 270 A.F)*",
+    "Zidan ➠ 420k *(100 F.U + 320 A.F)*",
     "Fourstore ➠ 350k *(100 F.U + 250 A.F)*",
     "Epul ➠ 335k *(150 F.U + 185 A.F)*",
     "Aji ➠ 305k *(100 F.U + 205 A.F)*",

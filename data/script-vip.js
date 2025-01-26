@@ -53,7 +53,7 @@
     "Nikola ➠ 100k *(F.U)*",
     "Fahri ➠ 100k *(F.U)*",
     "Ashraf ➠ 100k *(F.U)*",
-    "Yann ➠ 100k *(F.U)*",
+    "Yann ➠ 100k *(B.L)*",
     "Yuliaw ➠ 100k *(F.U)*",
     "Lexxy ➠ 100k *(F.U)*",
     "Syauqi ➠ 100k *(B.L)*",
@@ -72,6 +72,6 @@
     "Irull ➠ 80k *(F.U.P)*",
     "Adzan ➠ 80k *(F.U.P)*",
     "Khohar ➠ 70k *(F.U.P)*",
-    "Alawy ➠ 70k *(N.U.P)*"
+    "Alawy ➠ 70k *(B.L)*"
   ]
 }

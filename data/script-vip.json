@@ -32,7 +32,7 @@
   },
   {
     "code": "C.A",
-    "meaning": "Create Akun"
+    "meaning": "Create Access"
   }
   ],
   "result": [
@@ -72,11 +72,14 @@
     "Reksa ➠ 100k *(F.U)*",
     "Hann ➠ 100k *(F.U)*",
     "Raden ➠ 100k *(F.U)*",
+    "Yusuf ➠ 100k *(F.U)*",
+    "Rama ➠ 100k *(F.U)*",
     "Bintang ➠ 90k *(N.F.U)*",
     "Rafy ➠ 80k *(F.U.P)*",
     "Irull ➠ 80k *(F.U.P)*",
     "Adzan ➠ 80k *(F.U.P)*",
     "Khohar ➠ 70k *(F.U.P)*",
-    "Alawy ➠ 70k *(B.L)*"
+    "Alawy ➠ 70k *(B.L)*",
+    "Ditz ➠ 50k *(B.L)*"
   ]
 }
